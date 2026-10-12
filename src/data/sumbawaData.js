@@ -1,4 +1,4 @@
-﻿export const CATEGORIES = ['Semua', 'Bahari & Pulau', 'Gunung & Petualangan', 'Budaya & Sejarah', 'Kuliner Khas'];
+export const CATEGORIES = ['Semua', 'Bahari & Pulau', 'Gunung & Petualangan', 'Budaya & Sejarah', 'Kuliner Khas'];
 export const DESTINATIONS = [
   { id: 1, name: "Pulau Moyo & Air Terjun Mata Jitu", category: "Bahari & Pulau", tag: "Favorit Lady Diana", image: "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=800&q=80", desc: "Air terjun 7 undak stalaktit toska di tengah hutan tropis & spot snorkeling Takat Sagale.", highlight: "7 Kolam Alami & Coral Reef" },
   { id: 2, name: "Pulau Kenawa", category: "Bahari & Pulau", tag: "Savana Emas", image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80", desc: "Pulau tak berpenghuni dengan savana luas, bukit view 360 derajat, dan siluet Gunung Rinjani.", highlight: "Sunset 360 & Camping" },

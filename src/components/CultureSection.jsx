@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { CULTURE_ITEMS } from '../data/sumbawaData';
 import { Trophy, Sparkles, Heart } from 'lucide-react';
 const icons = { Trophy: <Trophy className="w-6 h-6 text-amber-400" />, Sparkles: <Sparkles className="w-6 h-6 text-teal-400" />, Heart: <Heart className="w-6 h-6 text-rose-400" /> };

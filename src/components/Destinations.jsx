@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { CATEGORIES, DESTINATIONS } from '../data/sumbawaData';
 import { Sparkles } from 'lucide-react';
