@@ -1,0 +1,16 @@
+﻿export const CATEGORIES = ['Semua', 'Bahari & Pulau', 'Gunung & Petualangan', 'Budaya & Sejarah', 'Kuliner Khas'];
+export const DESTINATIONS = [
+  { id: 1, name: "Pulau Moyo & Air Terjun Mata Jitu", category: "Bahari & Pulau", tag: "Favorit Lady Diana", image: "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=800&q=80", desc: "Air terjun 7 undak stalaktit toska di tengah hutan tropis & spot snorkeling Takat Sagale.", highlight: "7 Kolam Alami & Coral Reef" },
+  { id: 2, name: "Pulau Kenawa", category: "Bahari & Pulau", tag: "Savana Emas", image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80", desc: "Pulau tak berpenghuni dengan savana luas, bukit view 360 derajat, dan siluet Gunung Rinjani.", highlight: "Sunset 360 & Camping" },
+  { id: 3, name: "Hiu Paus Teluk Saleh", category: "Bahari & Pulau", tag: "Wildlife Encounter", image: "https://images.unsplash.com/photo-1560275619-4ccbfe596fa2?auto=format&fit=crop&w=800&q=80", desc: "Berenang bersama kawanan hiu paus liar jinak di sekitar bagan nelayan saat fajar.", highlight: "Whale Shark Snorkeling" },
+  { id: 4, name: "Kaldera Gunung Tambora", category: "Gunung & Petualangan", tag: "Kaldera Terbesar Dunia", image: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80", desc: "Situs letusan dahsyat 1815 dengan kaldera 7 km dan savana Doro Ncanga.", highlight: "Offroad 4x4 & Trekking" },
+  { id: 5, name: "Desa Mantar", category: "Budaya & Sejarah", tag: "Negeri di Atas Awan", image: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80", desc: "Desa 685 mdpl dengan panorama lembah berselimut awan dan spot paralayang internasional.", highlight: "Paralayang & Rumah Adat" },
+  { id: 6, name: "Pantai Jelenga (Scar Reef)", category: "Bahari & Pulau", tag: "World Class Surfing", image: "https://images.unsplash.com/photo-1502680390469-be75c86b636f?auto=format&fit=crop&w=800&q=80", desc: "Ombak kidal (left-hand barrel) kelas dunia dan pasir putih memikat.", highlight: "Surfing & Sunset Spot" },
+  { id: 7, name: "Istana Dalam Loka", category: "Budaya & Sejarah", tag: "Heritage 1885", image: "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=800&q=80", desc: "Rumah panggung kayu jati terbesar di dunia bertopang 99 tiang Asmaul Husna.", highlight: "Arsitektur Tanpa Paku" },
+  { id: 8, name: "Kuliner: Sepat & Singang", category: "Kuliner Khas", tag: "Gastronomi Tradisional", image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80", desc: "Ikan bakar kuah asam belimbing wuluh (Sepat) dan gulai rempah kuning kemangi (Singang).", highlight: "Ikan Bakar Asam Segar" }
+];
+export const CULTURE_ITEMS = [
+  { title: "Barapan Kebo", desc: "Pacuan kerbau lumpur khas Sumbawa sebagai wujud syukur panen dan ketangkasan joki.", icon: "Trophy" },
+  { title: "Tenun Kre Alang", desc: "Kain songket mewah bertabur benang emas dan perak bermotif khas Nusa Tenggara.", icon: "Sparkles" },
+  { title: "Madu Hutan & Susu Kuda Liar", desc: "Produk herbal organik hutan Sumbawa yang terkenal kaya khasiat stamina alami.", icon: "Heart" }
+];
