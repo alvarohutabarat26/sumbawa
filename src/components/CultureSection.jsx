@@ -12,7 +12,7 @@ const CULTURES = [
     image: "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1000&q=80",
     desc: "Adu kecepatan pasangan kerbau di sawah berlumpur tebal. Pemenang ditentukan saat joki berhasil menjatuhkan tonggak sakral 'Saka'.",
     fullStory: "Barapan Kebo bukan sekadar perlombaan balap, melainkan manifestasi rasa syukur petani Sumbawa menyambut musim tanam. Joki berdiri di atas 'nggala' (pembajak kayu) sambil mengendalikan kerbau yang berlari kencang di lumpur setinggi lutut. Titik penentu kemenangan adalah ketepatan joki merobohkan 'Saka' (tonggak kayu yang ditancapkan di ujung lapangan) yang sarat dengan mantra sandro (dukun adat).",
-    schedule: "April â€“ Juni (Menjelang Musim Tanam Padi)",
+    schedule: "April – Juni (Menjelang Musim Tanam Padi)",
     location: "Kecamatan Moyo Utara & Labuhan Badas, Sumbawa",
     philosophy: "Melambangkan ketangkasan, keberanian, persaudaraan, dan doa kesuburan tanah pertiwi."
   },
